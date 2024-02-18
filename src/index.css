@@ -1,3 +1,14 @@
-.bg-primary{
+.bg-primary {
     color: aqua;
+}
+
+/* from LearnUseContext */
+.theme {
+    background-color: aqua;
+    width: 100px;
+    height: 40px;
+    border: 1px solid yellowgreen;
+    border-radius: 5px;
+    cursor: pointer;
+    color: blue;font-size: 20px;
 }
